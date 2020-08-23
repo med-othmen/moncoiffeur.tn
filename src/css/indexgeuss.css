@@ -1,0 +1,21 @@
+.salonsgroups {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.bg {
+  background-color: white;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg2 {
+  background-color: lightyellow;
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

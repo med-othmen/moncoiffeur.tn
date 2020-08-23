@@ -1,0 +1,22 @@
+.loginform {
+  margin-right: 3cm;
+}
+.statusmeeting {
+  background-color: greenyellow;
+}
+
+.bg6 {
+  background-color: red;
+}
+
+.backgroundhomeclient {
+  background-image: url("https://image.freepik.com/free-vector/monochrome-abstract-contour-line-illustration_53876-81792.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagesalon {
+  max-width: 100%;
+}

@@ -1,0 +1,77 @@
+{
+
+    "salons": [{
+        "id": 1,
+        "name": "Salon KHL",
+        "street": "Rue ddd",
+        "city": "Tunis",
+        "phone": "26871016",
+        "mail": "othmen.09@gmail.com",
+        "type": "Homme",
+        "password": "password",
+        "img": ["https://image.freepik.com/photos-gratuite/chaises-vintage-salon-coiffure_155003-10150.jpg"]
+
+    }, {
+        "id": 2,
+        "name": "Salon Zarzis",
+        "street": "Rue Carthage",
+        "city": "Tunis",
+        "phone": "26871016",
+        "type": "Femme",
+        "mail": "othmen.09@gmail.com",
+        "password": "password",
+        "img": ["https://image.freepik.com/photos-gratuite/barber-fait-coiffure-laque-apres-coupe-chez-coiffeur_160566-3.jpg"]
+    }, {
+        "id": 3,
+        "name": "Salon Beauté ",
+        "street": "Rue Carthage",
+        "city": "Tunis",
+        "phone": "26871016",
+        "type": "Homme-Femme",
+        "mail": "othmen.09@gmail.com",
+        "password": "password",
+        "img": ["https://image.freepik.com/photos-gratuite/equipement-salon-coiffure-table-bois_155003-1386.jpg"]
+
+    }, {
+        "id": 4,
+        "name": "HAIR SALON",
+        "street": "Rue Carthage",
+        "city": "Tunis",
+        "phone": "26871016",
+        "type": "Homme-Femme",
+        "mail": "othmen.09@gmail.com",
+        "password": "password",
+        "img": ["https://image.freepik.com/psd-gratuit/mise-plat-maquette-du-concept-coiffeur_23-2148389262.jpg", "https://www.idgraphique.fr/asset/tmp/slide/habillage-facade-magasin-coiffeur-enseigne-680.jpg"]
+
+    }, {
+        "id": 5,
+        "name": "Salon KHL",
+        "street": "Rue Carthage",
+        "city": "Tunis",
+        "type": "Homme-Femme",
+        "phone": "26871016",
+        "mail": "othmen.09@gmail.com",
+        "password": "password",
+        "img": ["https://image.freepik.com/photos-gratuite/salon-coiffure-interieur_23-2147670184.jpg", "https://www.idgraphique.fr/asset/tmp/slide/habillage-facade-magasin-coiffeur-enseigne-680.jpg"]
+    }, {
+        "id": 6,
+        "name": "Salon KHL",
+        "street": "Rue Carthage",
+        "type": "Homme-Femme",
+        "city": "Tunis",
+        "phone": "26871016",
+        "mail": "othmen.09@gmail.com",
+        "password": "password",
+        "img": ["https://image.freepik.com/psd-gratuit/assortiment-spa-bien-etre-maquette-cahier_23-2148625363.jpg", "https://www.idgraphique.fr/asset/tmp/slide/habillage-facade-magasin-coiffeur-enseigne-680.jpg"]
+    }, {
+        "id": 7,
+        "name": "Salon KHL",
+        "street": "Rue Carthage",
+        "city": "Tunis",
+        "phone": "26871016",
+        "mail": "othmen.09@gmail.com",
+        "type": "Femme",
+        "password": "password",
+        "img": ["https://image.freepik.com/psd-gratuit/vue-dessus-maquette-du-concept-spa_23-2148477127.jpg", "https://www.idgraphique.fr/asset/tmp/slide/habillage-facade-magasin-coiffeur-enseigne-680.jpg"]
+    }]
+}
